@@ -1,6 +1,10 @@
 # Clash Party 下载分享中文官网资源
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashParty" src="https://github.com/user-attachments/assets/32225512-5cdb-463a-b31f-8fc880d9087d" />
+</div>
+<br>
 
 ## :memo: Clash Party 节点资源
 
